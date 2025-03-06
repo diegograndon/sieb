@@ -1,7 +1,7 @@
 # sieb
 # Bienvenidos al Repositorio del Curso de Pensamiento Computacional
 
-Este repositorio ha sido creado para apoyar el aprendizaje de los estudiantes del curso **Pensamiento Computacional**. En este espacio, cada estudiante tendrá acceso a una carpeta con su **nombre y apellido**. Dentro de esta carpeta, deberán incorporar los **notebooks de Google Colab** correspondientes a cada capítulo del libro *Think Python*.
+Este repositorio ha sido creado para apoyar el aprendizaje de los estudiantes del curso **Pensamiento Computacional**. En este espacio, cada estudiante tendrá acceso a una carpeta con su **apellido**. Dentro de esta carpeta, deberán incorporar los **notebooks de Google Colab** correspondientes a cada capítulo del libro *Think Python*.
 
 ### Instrucciones importantes:
 1. **Acceso personal**: Cada estudiante tendrá una carpeta privada con su nombre donde podrá agregar los colab de cada capítulo.
